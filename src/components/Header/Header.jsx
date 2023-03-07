@@ -22,15 +22,15 @@ export const Header = () => {
                                     <span className='fs-13'>Follow us on</span>
                                     <ul className='social-links flex align-center'>
                                         <li className='mx-2'>
-                                            <a href='www.facebook.com'
+                                            <a href='https://github.com/MatiAlva'
                                                 className='fs-15'>
-                                                <i className='fab fa-github'>Github</i>
+                                                <i className='fab fa-github'></i>
                                             </a>
                                         </li>
                                         <li className='mx-2'>
-                                            <a href='www.facebook.com'
+                                            <a href='https://www.linkedin.com/in/mati-dev/'
                                                 className='fs-15'>
-                                                <i className='fab fa-linkind'>LinkInd</i>
+                                                <i className='fab fa-linkedin'></i>
                                             </a>
                                         </li>
                                     </ul>
